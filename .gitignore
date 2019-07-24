@@ -1,0 +1,13 @@
+#Ignore files
+/LambdaApp/.idea
+/LambdaApp/target
+/LambdaApp/*.iml
+/LambdaApp/*.xml
+/webapp/.mvn
+
+/webapp/Assignment_4/.mvn
+/webapp/Assignment_4/lib
+/webapp/Assignment_4/out
+/webapp/Assignment_4/mvnw
+/webapp/Assignment_4/mvnw.cmd
+/webapp/Assignment_4/*.xml
